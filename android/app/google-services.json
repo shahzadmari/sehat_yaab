@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808707586267",
+    "project_id": "sehatyaab-6d024",
+    "storage_bucket": "sehatyaab-6d024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808707586267:android:c437171c8745e09e58f4fe",
+        "android_client_info": {
+          "package_name": "com.example.sehat_yaab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeD8-dwC-HfW1mhZTdNaBvO4thXMdN6yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
